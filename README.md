@@ -20,8 +20,8 @@ future, immutable date objects will be preferred.
 Update your **deps.edn** to use:
 ``` clj
 {:deps
- {logseq/cljs-time
-  {:git/url "https://github.com/logseq/cljs-time" :sha "xxxx"}}}
+ {khulnasoft-lab/cljs-time
+  {:git/url "https://github.com/khulnasoft-lab/cljs-time" :sha "xxxx"}}}
 ```
 
 ## Bugs and Enhancements
